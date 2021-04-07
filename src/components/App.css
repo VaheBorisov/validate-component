@@ -1,1 +1,6 @@
-
+.validateComponent {
+    color: red;
+}
+.validateComponent:hover {
+    cursor: pointer;
+}
